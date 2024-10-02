@@ -32,3 +32,5 @@
 *.app
 *.vsidx
 *.opendb
+*.tlog
+*.log
