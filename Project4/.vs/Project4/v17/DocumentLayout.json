@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "\uC18C\uC2A4.cpp",
               "ToolTip": "C:\\Users\\wwwki\\Desktop\\warp\\Project4\\\uC18C\uC2A4.cpp*",
               "RelativeToolTip": "\uC18C\uC2A4.cpp*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T04:07:20.113Z",
               "EditorCaption": ""
